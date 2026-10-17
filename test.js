@@ -22,3 +22,4 @@ while(usernum!=num){
     usernum=prompt("enter a number")
 }
 alert(`you win!! in ${counter} steps`)
+alert('changes in js')
